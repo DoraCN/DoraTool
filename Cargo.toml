@@ -7,13 +7,16 @@ edition = "2024"
 anyhow = "1.0.100"
 axum = "0.8.8"
 clap = { version = "4.5.56", features = ["derive"] }
+crossbeam-channel = "0.5.15"
 daemonize = "0.5.0"
+directories = "6.0.0"
 nix = { version = "0.31.1", features = ["signal"] }
 serde = { version = "1.0.228", features = ["derive"] }
 serde_json = "1.0.149"
+time = { version = "0.3.46", features = ["formatting", "macros"] }
 tokio = { version = "1.49.0", features = ["full"] }
 tower-http = { version = "0.6.8", features = ["cors", "trace"] }
 tracing = "0.1.44"
 tracing-appender = "0.2.4"
-tracing-subscriber = "0.3.22"
+tracing-subscriber = { version = "0.3.22", features = ["env-filter", "time", "local-time"] }
 usb-resolver = "0.1.0"

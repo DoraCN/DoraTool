@@ -1,0 +1,108 @@
+2026-02-04 21:36:35  INFO doratool: 系统启动中...
+2026-02-04 21:36:35  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:36:35  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:36:35  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-04 21:36:35  INFO doratool: Web Server listening on port 3000...
+2026-02-04 21:36:35  INFO doratool::core::usb::manager: 🐢 [Thread-Poll] USB 轮询扫描已启动 (发现新设备)
+2026-02-04 21:36:35  INFO doratool::core::usb::manager: 🚀 [Thread-Event] USB 热插拔监听已启动 (即时响应)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:2b89)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:8087)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:36:42  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:36:42  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.20s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:36:47  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.20s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:36:51  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-04 21:36:51  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.15s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:36:55  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.15s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:37:01  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:37:07  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.22s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:37:14  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.23s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:37:20  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.22s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:37:26  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.23s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:40:14  INFO doratool: 系统启动中...
+2026-02-04 21:40:14  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:40:14  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:40:14  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-04 21:40:14  INFO doratool: Web Server listening on port 3000...
+2026-02-04 21:40:14  INFO doratool::core::usb::manager: 🐢 [Thread-Poll] USB 轮询扫描已启动 (发现新设备)
+2026-02-04 21:40:14  INFO doratool::core::usb::manager: 🚀 [Thread-Event] USB 热插拔监听已启动 (即时响应)
+2026-02-04 21:40:14  INFO usb_resolver::platform::macos: [macOS] Start the IOKit listening thread.
+2026-02-04 21:40:15  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000
+2026-02-04 21:40:16  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-ss@02200000/USB3 Gen2 Hub@02200000/AppleUSB30Hub@02200000/AppleUSB30HubPort@02220000/USB3.1 Hub@02220000
+2026-02-04 21:40:17  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd3@1A280000/AppleT8132USBXHCI@03000000/usb-drd3-port-ss@03200000/USB3 HUB@03200000
+2026-02-04 21:40:18  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd3@1A280000/AppleT8132USBXHCI@03000000/usb-drd3-port-hs@03100000/Thunderbolt 5 M 2 SSD@03100000
+2026-02-04 21:40:19  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:2b89)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:8087)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:40:20  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-ss@02200000/USB3 Gen2 Hub@02200000
+2026-02-04 21:40:20  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:40:22  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:24  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速下线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:26  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.02s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:40:26  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:27  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速下线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:29  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:30  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速下线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:40:33  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-04 21:40:33  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 7.24s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:40:54  INFO doratool: 系统启动中...
+2026-02-04 21:40:54  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:40:54  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:40:54  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-04 21:40:54  INFO doratool: Web Server listening on port 3000...
+2026-02-04 21:40:54  INFO doratool::core::usb::manager: 🐢 [Thread-Poll] USB 轮询扫描已启动 (发现新设备)
+2026-02-04 21:40:54  INFO doratool::core::usb::manager: 🚀 [Thread-Event] USB 热插拔监听已启动 (即时响应)
+2026-02-04 21:40:54  INFO usb_resolver::platform::macos: [macOS] Start the IOKit listening thread.
+2026-02-04 21:40:55  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:2b89)
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:8087)
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:40:59  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:40:59  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.18s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:41:07  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-04 21:41:07  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 7.26s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:41:12  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.19s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:41:46  INFO doratool: 系统启动中...
+2026-02-04 21:41:46  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:41:46  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-04 21:41:46  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-04 21:41:46  INFO doratool: Web Server listening on port 3000...
+2026-02-04 21:41:46  INFO doratool::core::usb::manager: 🐢 [Thread-Poll] USB 轮询扫描已启动 (发现新设备)
+2026-02-04 21:41:46  INFO doratool::core::usb::manager: 🚀 [Thread-Event] USB 热插拔监听已启动 (即时响应)
+2026-02-04 21:41:46  INFO usb_resolver::platform::macos: [macOS] Start the IOKit listening thread.
+2026-02-04 21:41:47  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000
+2026-02-04 21:41:48  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-ss@02200000/USB3 Gen2 Hub@02200000/AppleUSB30Hub@02200000/AppleUSB30HubPort@02220000/USB3.1 Hub@02220000
+2026-02-04 21:41:49  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd3@1A280000/AppleT8132USBXHCI@03000000/usb-drd3-port-ss@03200000/USB3 HUB@03200000
+2026-02-04 21:41:50  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd3@1A280000/AppleT8132USBXHCI@03000000/usb-drd3-port-hs@03100000/Thunderbolt 5 M 2 SSD@03100000
+2026-02-04 21:41:51  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-ss@02200000/USB3 Gen2 Hub@02200000
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:2b89)
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:8087)
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:41:52  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-04 21:41:52  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.22s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:41:55  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:41:57  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.18s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:01  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-04 21:42:01  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.16s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:04  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速下线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:42:07  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:14  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:17  INFO doratool::core::usb::manager: ⚡ [Event] 设备极速上线: IOService:/AppleARMPE/arm-io@10F00000/AppleH16GFamilyIO/usb-drd2@12280000/AppleT8132USBXHCI@02000000/usb-drd2-port-hs@02100000/USB2 Hub@02100000/AppleUSB20InternalHub@02100000/AppleUSB20HubPort@02120000/USB2.1 Hub@02120000/AppleUSB20Hub@02120000/AppleUSB20HubPort@02124000/USB Single Serial@02124000
+2026-02-04 21:42:19  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.20s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:23  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-04 21:42:23  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.14s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:27  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.14s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:31  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.13s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:35  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.14s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-04 21:42:39  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.15s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)

@@ -1,0 +1,59 @@
+2026-02-02 22:19:04  INFO doratool: 系统启动中...
+2026-02-02 22:20:05  INFO doratool: 系统启动中...
+2026-02-02 22:20:05  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:20:05  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:20:05  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-02 22:20:05  INFO doratool: Web Server listening on port 3000...
+2026-02-02 22:20:05  INFO doratool::core::usb::manager: USB Background Manager started.
+2026-02-02 22:23:00  INFO doratool: 系统启动中...
+2026-02-02 22:23:00  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:23:00  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:23:00  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-02 22:23:00  INFO doratool: Web Server listening on port 3000...
+2026-02-02 22:23:00  INFO doratool::core::usb::manager: 🚀 USB 高性能监听启动: 混合模式 (Hotplug + Polling)
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:05ac PID:800c) Path:"0x02200000"
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:05ac PID:800b) Path:"0x02100000"
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:05e3 PID:0626) Path:"0x02220000"
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:05e3 PID:0610) Path:"0x02120000"
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:2b89 PID:0705) Path:"0x03100000"
+2026-02-02 22:23:06  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:8087 PID:5787) Path:"0x03200000"
+2026-02-02 22:23:06  WARN doratool::core::usb::manager: ⚠️  USB 扫描耗时过长: 6.217992042s (可能是设备拔出导致的 IO 阻塞)
+2026-02-02 22:23:12  WARN doratool::core::usb::manager: ⚠️  USB 扫描耗时过长: 5.170328208s (可能是设备拔出导致的 IO 阻塞)
+2026-02-02 22:23:19  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:1a86 PID:55d3) Path:"0x02122000"
+2026-02-02 22:23:19  WARN doratool::core::usb::manager: ⚠️  USB 扫描耗时过长: 7.247402292s (可能是设备拔出导致的 IO 阻塞)
+2026-02-02 22:23:26  INFO doratool::core::usb::manager: 🔌 [设备上线] (VID:1a86 PID:55d3) Path:"0x02123000"
+2026-02-02 22:23:26  INFO doratool::core::usb::manager: 🔌 [设备下线] 指纹: 1a86:55d3:5AB0183575:"0x02122000"
+2026-02-02 22:23:26  WARN doratool::core::usb::manager: ⚠️  USB 扫描耗时过长: 6.220305584s (可能是设备拔出导致的 IO 阻塞)
+2026-02-02 22:23:32  INFO doratool::core::usb::manager: 🔌 [设备下线] 指纹: 1a86:55d3:5AB0183575:"0x02123000"
+2026-02-02 22:23:32  WARN doratool::core::usb::manager: ⚠️  USB 扫描耗时过长: 6.217073625s (可能是设备拔出导致的 IO 阻塞)
+2026-02-02 22:28:25  INFO doratool: 系统启动中...
+2026-02-02 22:28:25  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:28:25  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:28:25  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-02 22:28:25  INFO doratool: Web Server listening on port 3000...
+2026-02-02 22:31:04  INFO doratool: 系统启动中...
+2026-02-02 22:31:04  INFO doratool::infra::config: Config Dir: "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:31:04  INFO doratool::infra::config: Data Dir:   "/Users/echo/Library/Application Support/com.dora.dora-tool"
+2026-02-02 22:31:04  INFO doratool::infra::config: 配置文件不存在，将使用空规则列表初始化: "/Users/echo/Library/Application Support/com.dora.dora-tool/usb_rules.json"
+2026-02-02 22:31:04  INFO doratool: Web Server listening on port 3000...
+2026-02-02 22:31:04  INFO doratool::core::usb::manager: 🐢 [Thread-Poll] USB 轮询扫描已启动 (发现新设备)
+2026-02-02 22:31:04  INFO doratool::core::usb::manager: 🚀 [Thread-Event] USB 热插拔监听已启动 (即时响应)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05ac)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:05e3)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:2b89)
+2026-02-02 22:31:10  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:8087)
+2026-02-02 22:31:10  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.49s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:17  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-02 22:31:17  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 7.24s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:23  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:29  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-02 22:31:29  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:33  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 4.14s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:39  INFO doratool::core::usb::manager: 🔍 [Poll] 扫描到设备: (VID:1a86)
+2026-02-02 22:31:39  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 5.17s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:45  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.20s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:51  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.21s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:31:57  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.22s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
+2026-02-02 22:32:03  WARN doratool::core::usb::manager: ⚠️  USB 扫描发生了 I/O 阻塞: 6.20s (这是正常的 OS 行为，但 Event 线程已提前更新 UI)
